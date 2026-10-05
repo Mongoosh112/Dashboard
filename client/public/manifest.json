@@ -1,0 +1,18 @@
+{
+  "name": "QuantumPropAI • Enterprise Real-Time Messenger",
+  "short_name": "QuantumPropAI",
+  "description": "Modern real-time workplace messenger and directives platform",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b0f19",
+  "theme_color": "#6366f1",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
